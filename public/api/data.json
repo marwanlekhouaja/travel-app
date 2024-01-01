@@ -1,0 +1,110 @@
+[
+    {
+        "id":1,
+        "name":"Midahurst Coast",
+        "src":"https://images.pexels.com/photos/2178175/pexels-photo-2178175.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "rating":4.7,
+        "category":"beach",
+        "price":1300,
+        "description":"beach hawai in thailond"
+    },{
+        "id":2,
+        "name":"Gold Bank",
+        "src":"https://images.pexels.com/photos/2253821/pexels-photo-2253821.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "rating":4,
+        "category":"beach",
+        "price":2500,
+        "description":"beach in new work"
+    }
+    ,{
+        "id":3,
+        "name":"Marboia Coast",
+        "src":"https://images.pexels.com/photos/38238/maldives-ile-beach-sun-38238.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "rating":4.1,
+        "category":"park",
+        "price":1200,
+        "description":"park Marboia Coast"
+    },
+    {
+        "id":4,
+        "name":"Stingray Oceanfront",
+        "src":"https://images.pexels.com/photos/3225531/pexels-photo-3225531.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "category":"beach",
+        "rating":4.9,
+        "price":5600,
+        "description":"Brospond Margin in california"
+    },
+    {
+        "id":5,
+        "name":"Brighpond Bay",
+        "rating":4.7,
+        "description":"park Brighpond Bay in chine",
+        "price":4700,
+        "src":"https://images.pexels.com/photos/2104044/pexels-photo-2104044.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+        "id":6,
+        "name":"Inniscester Bay",
+        "rating":4,
+        "description":"montain alaso in ireland",
+        "price":1800,
+        "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa4XwRvWo2V1cmLevS1YH-Ib25cwT3S1BQ6g&usqp=CAU"
+    },
+    {
+        "id":7,
+        "rating":3.9,
+        "name":"Turbulent Point",
+        "description":"montain safi in france",
+        "price":1950,
+        "src":"https://images.pexels.com/photos/9812166/pexels-photo-9812166.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "id":8,
+        "rating":4.2,
+        "name":"The Oyster Pearl Edge",
+        "description":"park wei in spain",
+        "price":1300,
+        "src":"https://images.pexels.com/photos/236940/pexels-photo-236940.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "id":9,
+        "name":"Seagull Coastline",
+        "rating":3.5,
+        "description":"montain safi in france",
+        "price":2400,
+        "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa4XwRvWo2V1cmLevS1YH-Ib25cwT3S1BQ6g&usqp=CAU"
+    }
+    ,
+    {
+        "id":10,
+        "name":"Riverdown Strand",
+        "rating":4.7,
+        "description":"montain safi in france",
+        "price":1300,
+        "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa4XwRvWo2V1cmLevS1YH-Ib25cwT3S1BQ6g&usqp=CAU"
+    },
+    {
+        "id":11,
+        "name":"Stormy Shore",
+        "rating":3.3,
+        "description":"montain safi in france",
+        "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa4XwRvWo2V1cmLevS1YH-Ib25cwT3S1BQ6g&usqp=CAU"
+    },
+    {
+        "id":12,
+        "name":"Baxshaw Sands",
+        "rating":5,
+        "description":"montain safi in france",
+        "price":2600,
+        "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa4XwRvWo2V1cmLevS1YH-Ib25cwT3S1BQ6g&usqp=CAU"
+    },
+    {
+        "id":13,
+        "name":"Dalfait Bay",
+        "rating":4.4,
+        "description":"montain safi in france",
+        "price":2899,
+        "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa4XwRvWo2V1cmLevS1YH-Ib25cwT3S1BQ6g&usqp=CAU"
+    }
+    
+]
